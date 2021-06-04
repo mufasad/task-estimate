@@ -1,0 +1,28 @@
+{
+  "name": "task-estimate",
+  "version": "1.0.0",
+  "description": "something like planning pocker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mufasad/task-estimate.git"
+  },
+  "keywords": [
+    "planning",
+    "pocker",
+    "scrum",
+    "pocker"
+  ],
+  "author": "Mufasad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mufasad/task-estimate/issues"
+  },
+  "homepage": "https://github.com/mufasad/task-estimate#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
